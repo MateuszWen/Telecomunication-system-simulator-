@@ -1,0 +1,31 @@
+﻿  ConsoleApplication1.cpp
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\ConsoleApplication1.cpp(80,25): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+  Event.cpp
+  FinishingSending.cpp
+  GeneratePacket.cpp
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\GeneratePacket.cpp(21,177): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\GeneratePacket.cpp(28,67): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Logger.cpp
+  Packet.cpp
+  ReceivePacket.cpp
+  ReceivingAntenna.cpp
+  ScanConnection.cpp
+  Simulator.cpp
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Simulator.cpp(44,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Simulator.cpp(71,76): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Simulator.cpp(83,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Simulator.cpp(215,29): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Simulator.cpp(273,199): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Statistics.cpp
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Statistics.cpp(39,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Statistics.cpp(179,16): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Statistics.cpp(198,18): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\Statistics.cpp(211,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  TransmittingAntenna.cpp
+  UniformGenerator.cpp
+  UniformGeneratorKernel.cpp
+E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\ConsoleApplication1\UniformGeneratorKernel.cpp(23,12): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+  WirelessConnection.cpp
+  WirelessNetwork.cpp
+  Generowanie kodu...
+  ConsoleApplication1.vcxproj -> E:\Studia - EiT materialy\Semestr 6\Symulacje cyfrowe\Symulacje cyfrowe - projekt\Zadanie5\Oddane w raporcie końcowym\ProjektSC_wersja_końcowa\Debug\ConsoleApplication1.exe
